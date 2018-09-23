@@ -3,7 +3,7 @@
   "license": "MIT",
   "description": "Basic react app w/ Wormhole SDK bindings",
   "author": "Gabriel Cardona @ Bitcoin.com",
-  "version": "0.7.1",
+  "version": "0.7.2",
   "private": true,
   "dependencies": {
     "node-sass": "^4.9.0",
@@ -20,7 +20,7 @@
     "coverage:report": "nyc --reporter=html mocha --require babel-core/register --timeout 5000"
   },
   "devDependencies": {
-    "wormholecash": "0.7.1",
+    "wormholecash": "0.7.2",
     "chai": "^4.1.2",
     "flow-bin": "^0.64.0",
     "nyc": "^11.6.0",
